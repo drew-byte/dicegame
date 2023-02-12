@@ -1,0 +1,36 @@
+h1 { 
+    font-family: 'Itim', cursive;
+    padding-top: 100px;
+    font-size: 100px;
+    color: rgb(0, 66, 90);
+}
+h3  {
+    font-family: 'Itim', cursive;
+    margin-bottom: 30px;
+    font-size: 60px;
+}
+p { 
+    margin-top: 100px;
+    font-size: 30px;
+    font-family: 'Itim', cursive;
+}
+body
+{
+    background-color: rgb(31, 138, 112);
+}
+
+.dice {
+    
+    display:inline-block;
+    margin-top: 100px;
+    margin-right:100px;
+    margin-left:100px;
+    
+}
+.bb {
+    width: fit-content;
+    height: 20px;
+    color: aquamarine;
+}
+
+
